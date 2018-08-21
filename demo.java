@@ -9,5 +9,7 @@ public class demo {
 
         ArrayList<Object> arrayList = new ArrayList<Object>();
 
+        arrayList.add("huzhongkang");
+        arrayList.add("nizhenshuai");
     }
 }
