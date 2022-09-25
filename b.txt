@@ -17,3 +17,9 @@ public void main test2(){
 
 public void main haha2(){
 }
+
+public void main haha2(){
+}
+
+public void main haha2(){
+}
