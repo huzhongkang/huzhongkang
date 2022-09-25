@@ -8,3 +8,6 @@ public void main test1(){
 
 public void main test2(){
 }
+
+public void main haha2(){
+}
