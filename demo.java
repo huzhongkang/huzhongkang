@@ -11,5 +11,7 @@ public class demo {
 
         arrayList.add("huzhongkang");
         arrayList.add("nizhenshuai");
+        arrayList.add("nizhenshuai");
+		
     }
 }
