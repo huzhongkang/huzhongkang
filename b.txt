@@ -1,4 +1,4 @@
-public void main kangkang1(){
+ccccpublic void main kangkang1(){
 }
 
 public void main haha1(){
